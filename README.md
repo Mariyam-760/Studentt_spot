@@ -2,9 +2,9 @@
 
 This repository contains three separate web development projects, each organized in its own folder:
 
-- [`food-blog`](./food-blog): A full-stack web application using Node.js and Express.js.
-- [`neuralens`](./neuralens): A front-end project built with HTML, CSS, and JavaScript.
-- [`portfolio`](./portfolio): A personal portfolio website created using HTML and CSS.
+- [`FoodBlog`](./FoodBlog): A full-stack web application using Node.js and Express.js.
+- [`neuralens_2`](./neuralens_2): A front-end project built with HTML, CSS, and JavaScript.
+- [`portfolio-3`](./Portfolio/portfolio-3): A personal portfolio website created using HTML and CSS.
 
 ---
 
