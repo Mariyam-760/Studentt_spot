@@ -3,25 +3,25 @@
 This repository contains three separate web development projects, each organized in its own folder:
 
 - [`FoodBlog`](./FoodBlog): A full-stack web application using Node.js and Express.js.
-- [`neuralens_2`](./neuralens_2): A front-end project built with HTML, CSS, and JavaScript.
-- [`portfolio-3`](./Portfolio/portfolio-3): A personal portfolio website created using HTML and CSS.
+- [`neuralens_2`](./neuralens_2): A front-end project built with Reactjs and vite
+- [`portfolio-3`](./Portfolio/portfolio-3): A personal portfolio website created using Reactjs and vite
 
 ---
 
 ## 📁 Project Overviews
 
 ### 1. Food Blog
-**Stack**: Node.js, Express.js  
+**Stack**: Node.js, Express.js 
 **Description**:  
 A dynamic web application designed for food enthusiasts to browse, read, and manage blog posts about various recipes and cuisines. It includes server-side rendering and routing with Express.
-
+ 
 **Features**:
 - Blog post creation and display
 - RESTful routing
 - Templating engine integration (e.g., EJS or Pug)
 
 ### 2. Neuralens
-**Stack**: HTML, CSS, JavaScript  
+**Stack**: Reactjs and vite
 **Description**:  
 A front-end UI project that visually represents a product or concept related to neural technology or imaging. Fully static with responsive design and client-side interactivity.
 
@@ -31,7 +31,7 @@ A front-end UI project that visually represents a product or concept related to 
 - Fully responsive layout
 
 ### 3. Portfolio
-**Stack**: HTML, CSS  
+**Stack**: reactjs and vite
 **Description**:  
 A personal portfolio website showcasing your work, skills, and contact information. Simple and elegant design for presenting your developer profile online.
 
@@ -50,3 +50,5 @@ Clone the repository and navigate into any project folder to explore or run the 
 git clone https://github.com/Mariyam-760/Studentt_spot.git
 cd studentt_spot/FoodBlog
 
+To RUN ALL PROJECTS GOING TO PROJECT FOLDER AND THEN TYPE
+npm start
